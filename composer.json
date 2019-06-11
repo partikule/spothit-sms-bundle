@@ -1,5 +1,5 @@
 {
-    "name": "partikule/spothit-sms-api",
+    "name": "partikule/spothit-sms-bundle",
     "description": "Integrates the Spothit SMS API client with Symfony.",
     "type": "symfony-bundle",
     "license": "MIT",
