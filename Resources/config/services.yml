@@ -1,0 +1,6 @@
+services:
+   spothit_sms.api.client:
+       class: Spothit\Api\Client
+       public: true
+       arguments:
+           - '%spothit_sms.api_key%'

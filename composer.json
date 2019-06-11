@@ -1,0 +1,20 @@
+{
+    "name": "partikule/spothit-sms-api",
+    "description": "Integrates the Spothit SMS API client with Symfony.",
+    "type": "symfony-bundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michel-Ange Kuntz",
+            "email": "contact@partikule.net"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "Spothit\\Bundle\\SMSBundle\\": "" }
+    },
+    "require": {
+        "php": ">=5.4",
+        "symfony/framework-bundle": "~2.3 || ~3.0 || ~4.0",
+        "partikule/spothit-sms-api": "1.0.0"
+    }
+}
