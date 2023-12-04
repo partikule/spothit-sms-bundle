@@ -14,7 +14,7 @@
     },
     "require": {
         "php": ">=5.4",
-        "symfony/framework-bundle": "~2.3 || ~3.0 || ~4.0 || ~5.0",
+        "symfony/framework-bundle": "*",
         "partikule/spothit-sms-api": "1.0.3"
     }
 }
